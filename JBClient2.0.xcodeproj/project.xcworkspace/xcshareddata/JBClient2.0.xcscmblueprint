@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5f84e6dd-939b-4b48-b89f-bd3ae27fda11++8227",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5f84e6dd-939b-4b48-b89f-bd3ae27fda11++8227" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5f84e6dd-939b-4b48-b89f-bd3ae27fda11++8227" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "93503011-7B78-4E62-993A-8B433C511980",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5f84e6dd-939b-4b48-b89f-bd3ae27fda11++8227" : "client\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JBClient2.0",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JBClient2.0\/JBClient2.0.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.102\/svn\/junnuo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5f84e6dd-939b-4b48-b89f-bd3ae27fda11++8227"
+    }
+  ]
+}
